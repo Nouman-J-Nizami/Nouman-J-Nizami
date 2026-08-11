@@ -8,25 +8,31 @@ focusing on Governance, Risk & Compliance, security operations, and regulatory f
 ---
 
 ### 🔍 Focus Areas
+
 - Governance, Risk & Compliance (GRC)
-- ISO 27001 & NIS2 implementation
+- ISO/IEC 27001 & NIS2
 - Risk Assessment & Security Controls
+- Information Security Management Systems (ISMS)
 - Security Operations & Incident Response
-- Vulnerability Assessment & Penetration Testing basics
+- Vulnerability Assessment & Security Testing
+- Industrial & OT Cybersecurity
+## 🛠️ Tools & Technologies
 
-### 🛠️ Tools & Technologies
-`Splunk` `Wazuh SIEM` `Nmap` `Nessus` `Metasploit` `Wireshark` `Kali Linux`
+`Splunk SIEM` `Wazuh` `Nmap` `Nessus` `Rapid7` `Metasploit` `Wireshark` `Kali Linux` `EDR` `Threat Intelligence`
 
-### 📜 Certifications
-- CompTIA Security+ (SY0-701)
-- ISO 27001 Lead Implementer *(in progress)*
-- Cybersecurity Analyst – Professional Training Program, EPICODE Institute of Technology
+## 🔍 Technologies & Security Platforms
 
-### 📌 Featured Projects
-Check out my pinned repositories below — covering ISO 27001 risk assessment, 
-threat intelligence aligned with MITRE ATT&CK, incident response with Wazuh SIEM, 
-and vulnerability assessment reporting.
+`SIEM` `EDR` `NDR` `Threat Intelligence` `Vulnerability Management` `Network Security`
 
+## 📁 Certifications
+
+- **CompTIA Security+ (SY0-701)**
+- **ISO/IEC 27001 Lead Implementer – PECB** *(Exam Passed – Certification Pending)*
+- **Cybersecurity Analyst – Professional Training Program** — EPICODE Institute of Technology
+
+## 📌 Featured Projects
+
+Selected cybersecurity projects covering ISO/IEC 27001 risk assessment, MITRE ATT&CK-aligned threat intelligence, Wazuh SIEM incident response, vulnerability assessment, network security, and security reporting.
 ---
 
 ### 📫 Let's Connect
