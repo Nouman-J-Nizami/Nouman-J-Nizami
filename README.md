@@ -33,7 +33,7 @@ I combine an industrial engineering background with hands-on cybersecurity train
 ## 📁 Certifications
 
 - **CompTIA Security+ (SY0-701)**
-- **ISO/IEC 27001 Lead Implementer – PECB** *(Exam Passed – Certification Pending)*
+- **ISO/IEC 27001 Lead Implementer (Provisional) – PECB**
 - **Cybersecurity Analyst – Professional Training Program** — EPICODE Institute of Technology
 
 ---
