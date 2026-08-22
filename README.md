@@ -8,6 +8,14 @@ My portfolio focuses on applying security and compliance principles to realistic
 
 ---
 
+## 🎓 Certifications & Training
+
+- **CompTIA Security+ (SY0-701)**
+- **ISO/IEC 27001 Lead Implementer (Provisional) — PECB**
+- **Cybersecurity Analyst — Professional Training Program — EPICODE Institute of Technology**
+
+---
+
 ## 🔎 Focus Areas
 
 - Governance, Risk & Compliance (GRC)
@@ -94,14 +102,6 @@ Areas include:
 **Governance & Compliance**
 
 `ISO/IEC 27001` `NIS2` `DORA` `GDPR` `ISO/IEC 42001` `GRC` `Risk Assessment` `Control Mapping` `ISMS` `IAM`
-
----
-
-## 🎓 Certifications & Training
-
-- **CompTIA Security+ (SY0-701)**
-- **ISO/IEC 27001 Lead Implementer (Provisional) — PECB**
-- **Cybersecurity Analyst — Professional Training Program — EPICODE Institute of Technology**
 
 ---
 
