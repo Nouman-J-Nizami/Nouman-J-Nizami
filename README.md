@@ -145,6 +145,7 @@ They do not represent real client engagements, confidential information, audit o
 
 ## 📫 Let's Connect
 
-[LinkedIn](www.linkedin.com/in/nouman-nizami)
+[LinkedIn](https://www.linkedin.com/in/nouman-nizami/)
+
 
 📍 Based in Upper Austria, Austria
