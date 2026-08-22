@@ -13,6 +13,8 @@ My portfolio focuses on applying security and compliance principles to realistic
 - **CompTIA Security+ (SY0-701)**
 - **ISO/IEC 27001 Lead Implementer (Provisional) — PECB**
 - **Cybersecurity Analyst — Professional Training Program — EPICODE Institute of Technology**
+- **⁠Diploma in Mechanical Engineering**
+
 
 ---
 
