@@ -27,7 +27,7 @@ My focus is on ISMS implementation, risk-based decision-making and continuous im
 
 ## In progress:
 
-**ISO/IEC 42001 Lead Implementer — PECB**
+ISO/IEC 42001 Lead Implementer — PECB
 **Cloud Computing Infrastructure — EPICODE Institute of Technology**
 
 ---
