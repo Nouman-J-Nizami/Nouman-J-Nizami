@@ -1,10 +1,20 @@
 # Hi, I'm Nouman Nizami 👋
 
-### Cybersecurity Analyst | GRC & Compliance | ISO/IEC 27001 | NIS2 | Risk Management
+## GRC & Compliance Specialist | ISO 27001 · NIS2 · GDPR · Third-Party Risk Assessment
 
-I combine an industrial engineering background with hands-on cybersecurity training and practical security projects, with a focus on Governance, Risk & Compliance (GRC), information security, security operations, risk management, and regulatory frameworks.
+I am a cybersecurity and GRC specialist whose career in compliance, audit readiness and risk management began in 2010, from BRC and retailer audits and supplier risk in the UK to ISO/IEC 27001 and NIS2 governance.
 
-My portfolio focuses on applying security and compliance principles to realistic enterprise scenarios, with particular interest in European cybersecurity and regulatory requirements.
+I am a certified PECB ISO/IEC 27001 Lead Implementer (Provisional) and hold CompTIA Security+.
+
+I build risk registers, gap analyses and remediation roadmaps, map regulatory requirements to controls and prepare audit evidence.
+
+My skills include third-party risk management, access governance (JML, SoD), CAPA and root-cause analysis, policy development and management reporting.
+
+I have delivered independent GRC consulting for clients in the United States and Italy, covering GDPR, third-party risk, internal controls and regulatory compliance.
+
+I also bring a solid background in industrial automation and mechanical engineering.
+
+My focus is on ISMS implementation, risk-based decision-making and continuous improvement.
 
 ---
 
@@ -15,6 +25,10 @@ My portfolio focuses on applying security and compliance principles to realistic
 - **Master in Cybersecurity & Ethical Hacking (Professional Program) — EPICODE Institute of Technology**
 - **⁠Diploma in Mechanical Engineering**
 
+## In progress:
+
+**ISO/IEC 42001 Lead Implementer — PECB**
+**Cloud Computing Infrastructure — EPICODE Institute of Technology**
 
 ---
 
