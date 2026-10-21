@@ -20,10 +20,10 @@ My focus is on ISMS implementation, risk-based decision-making and continuous im
 
 ## 🎓 Certifications & Training
 
-- **CompTIA Security+ (SY0-701)**
-- **ISO/IEC 27001 Lead Implementer (Provisional) — PECB**
-- **Master in Cybersecurity & Ethical Hacking (Professional Program) — EPICODE Institute of Technology**
-- **⁠Diploma in Mechanical Engineering**
+- CompTIA Security+ (SY0-701)
+- ISO/IEC 27001 Lead Implementer (Provisional) — PECB
+- Master in Cybersecurity & Ethical Hacking (Professional Program) — EPICODE Institute of Technology
+- Diploma in Mechanical Engineering
 
 ## In progress:
 
